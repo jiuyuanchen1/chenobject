@@ -49,6 +49,7 @@ public class Test {
         //prostuNum.substring(0,prostuNum.indexOf(school.getSchoolCode()))
         //Long sxsortLong = Long.valueOf(prostuNum.substring(prostuNum.indexOf(school.getSchoolCode())+school.getSchoolCode().length()))+1;
         System.out.println("第一次提交");
+        System.out.println("第二次提交");
 
 
     }
